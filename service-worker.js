@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lukasijus-react-app/precache-manifest.a2a8048fca165d9b2b735d9e32660532.js"
+  "/lukasijus-react-app/precache-manifest.ba3fa211b417f6cec80a5a83e01a7c4d.js"
 );
 
 workbox.clientsClaim();

@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/lukasijus-react-app/static/js/runtime~main.98f95adc.js"
   },
   {
-    "revision": "4cb4f6107948c387f3ad",
-    "url": "/lukasijus-react-app/static/js/main.4e147515.chunk.js"
+    "revision": "1dba129854ddfede3ff4",
+    "url": "/lukasijus-react-app/static/js/main.f249d61a.chunk.js"
   },
   {
     "revision": "0571b69cddc311e66ec0",
     "url": "/lukasijus-react-app/static/js/2.b934461c.chunk.js"
   },
   {
-    "revision": "4cb4f6107948c387f3ad",
+    "revision": "1dba129854ddfede3ff4",
     "url": "/lukasijus-react-app/static/css/main.a33d884e.chunk.css"
   },
   {
-    "revision": "0956ab0e2c3792f98b60a802a4ffff58",
+    "revision": "9e319359755a81ec381343e25c648c4b",
     "url": "/lukasijus-react-app/index.html"
   }
 ];
