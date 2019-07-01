@@ -1,2 +1,2 @@
 #Visit web app: 
-https://lukasijus.github.com/lukasijus-react-app/
+https://lukasijus.github.io/lukasijus-react-app/
